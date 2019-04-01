@@ -24,6 +24,11 @@ Hand-Written Letter Style Compare System by using Keras/Autoencoder
    * tensorflow
 * Type this Command and press Enter  
    * ***python Hand-Writing_UI.py***
+
+* Excution Screenshot
+<img src="https://i.imgur.com/hfywl9n.png" width="100%"></img>
+
+
 # Reference
 * <https://blog.keras.io/building-autoencoders-in-keras.html>
 * <https://keras.io/>
