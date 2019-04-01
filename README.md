@@ -1,7 +1,7 @@
-# Caution
-  #### ***This Project is NOT VALIDATED ENOUGH***
-  I need your help to validate this Neural Network is available.
-  <br>PLZ validate My Neural Network
+# ***Caution***
+  ### ***This Project is NOT VALIDATED ENOUGH***
+  #### I need your help to validate this Neural Network is available.
+  #### PLZ validate My Neural Network
 
 # Hand-Written-Letter-Style-Compare-System
 <br>
