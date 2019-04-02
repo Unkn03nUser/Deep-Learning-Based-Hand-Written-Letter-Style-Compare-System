@@ -36,5 +36,5 @@ Hand-Written Letter Style Compare System by using Keras/Autoencoder
 * <https://docs.scipy.org/doc/>
 * <https://medium.com/@curiousily/credit-card-fraud-detection-using-autoencoders-in-keras-tensorflow-for-hackers-part-vii-20e0c85301bd>
 
-#Data Set
+# Data Set
 * <http://www.fki.inf.unibe.ch/> IAM Dataset
